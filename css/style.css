@@ -1,0 +1,34 @@
+
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+.co{
+    height: 100px;
+    width: 200px;
+    color: chocolate;
+}
+.image11{
+    
+    background-size: cover;
+    border-radius: 50px;
+ text-align: center;
+}
+.image1{
+   text-align: left;
+    
+    display: grid;
+}
+.image2{
+   
+   width: 250px;
+   height: 100px;
+}
+.button{
+    text-align: end;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+ text-align: center;
+    background-color: chartreuse;
+}
